@@ -1,6 +1,6 @@
-# FastAPI Boilerplate
+# copilot-boilerplate-lab
 
-A lightweight FastAPI server with a health endpoint and pytest coverage.
+Learning repository for GitHub Copilot development, containing a lightweight FastAPI server with a health endpoint and pytest coverage.
 
 ## Run locally
 
